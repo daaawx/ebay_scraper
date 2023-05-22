@@ -11,7 +11,7 @@ easygui == 0.98.1
 gevent == 1.4.0
 
 # ebayscraper.py: 6
-requests == 2.21.0
+requests == 2.31.0
 
 # ebayscraper.py: 10
 yattag == 1.12.2
